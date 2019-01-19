@@ -46,6 +46,7 @@
 		"wikimedia/timestamp": "1.0.0",
 		"wikimedia/wait-condition-loop": "1.0.1",
 		"wikimedia/wrappedstring": "2.2.0",
+    "mediawiki/vector-skin": "dev-wmf/1.32.0",
 		"zordius/lightncandy": "0.23"
 	},
 	"require-dev": {
